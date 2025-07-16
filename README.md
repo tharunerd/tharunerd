@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharun Kumar Akula</h1>
+<h1 align="center"> I'm Tharun Kumar Akula</h1>
 <p align="center">
   🔧 Embedded Systems Engineer | 🐍 Python Automation Enthusiast | ⚙️ RTOS Learner  
 </p>
@@ -25,7 +25,7 @@
 `FreeRTOS (basics)` `UART` `SPI` `I2C` `Timers` `Interrupts` `GPIO`
 
 **Tools & IDEs:**  
-`STM32CubeIDE (simulator)` `MobaXterm` `VS Code` `Arduino IDE` `Git` `GitHub Actions`
+`STM32CubeIDE (simulator)` `MobaXterm` `VS Code` `Arduino IDE` `Git` `GitHub Actions` `Pycharm`
 
 **Testing & Automation:**  
 `Robot Framework` `Pytest` `Jira` `SMTP scripting` `API integration` `CI pipelines`
