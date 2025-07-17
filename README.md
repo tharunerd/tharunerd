@@ -34,7 +34,7 @@
 
 ## 📂 Notable Projects
 
-### 🌦️ [Automated Weather & AQI Email Bot](https://github.com/tharunerd/weather-aqi-email-bot)
+### 🌦️ [Automated Weather & AQI Email Bot](https://github.com/tharunerd/automated-weather-report-generator)
 Python | SMTP | GitHub Actions  
 Automates weather & AQI reports to email daily using API integration, cron jobs, and .env security handling.
 
@@ -42,7 +42,7 @@ Automates weather & AQI reports to email daily using API integration, cron jobs,
 Python | API Scheduling | CLI  
 An app that rings an alarm 30 minutes before sunrise based on your city. Designed for early risers.
 
-### 🔄 [FreeRTOS Task Notification Demo](https://github.com/tharunerd/FreeRTOS-Task-Notification)
+### 🔄 [FreeRTOS Task Notification Demo](https://github.com/tharunerd/freeRTOS-projects/tree/main/06_Task_Notification)
 C | FreeRTOS Simulation  
 Demonstrates inter-task communication using task notifications and queues in FreeRTOS.
 
