@@ -8,7 +8,7 @@
 ## 💫 About Me
 
 - 📍 Based in **Gurgaon, India**
-- 👨‍💻 Currently working at **Capgemini** (Smart Metering & Embedded QA domain)
+- 👨‍💻 Currently working at **Capgemini** (Embedded QA domain)
 - 🔄 Transitioning from testing to **core embedded systems development**
 - 🌱 Actively learning **FreeRTOS**, **STM32**, and real-time embedded systems
 - 🧠 Love working on **Python automation**, **email bots**, and **scheduling tools**
