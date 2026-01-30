@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Tharun Kumar Akula</h1>
 <p align="center">
-  🔧 Embedded Systems Engineer | 🐍 Python Automation Enthusiast | ⚙️ RTOS Learner  
+  🔧 Associate Systems Engineer | 🐍 Python Automation Enthusiast |   
 </p>
 
 ---
