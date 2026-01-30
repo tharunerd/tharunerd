@@ -60,13 +60,6 @@ Demonstrates inter-task communication using task notifications and queues in Fre
 
 ---
 
-## 📚 Currently Learning
-
-- 🧠 **Advanced FreeRTOS mechanisms**: semaphores, ISRs, and timers  
-- 💻 **Embedded driver development** using STM32 and ARM Cortex-M  
-- 🔧 **CI/CD for embedded automation** using GitHub Actions & Docker basics
-
----
 
 ## 🤝 Let's Connect
 
