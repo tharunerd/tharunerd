@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-- 📍 Based in **Gurgaon, India**
+- 📍 Based in **Bangalore, India**
 - 👨‍💻 Currently working at **Capgemini** (Embedded QA domain)
 - 🔄 Transitioning from testing to **core embedded systems development**
 - 🌱 Actively learning **FreeRTOS**, **STM32**, and real-time embedded systems
@@ -28,7 +28,7 @@
 `STM32CubeIDE (simulator)` `MobaXterm` `VS Code` `Arduino IDE` `Git` `GitHub Actions` `Pycharm`
 
 **Testing & Automation:**  
-`Robot Framework` `Pytest` `Jira` `SMTP scripting` `API integration` `CI pipelines`
+`Robot Framework` `Pytest` `Jira` `SMTP scripting` `API integration` `CI pipelines` `Playwright`
 
 ---
 
